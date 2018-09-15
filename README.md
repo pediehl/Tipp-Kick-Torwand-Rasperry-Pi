@@ -18,3 +18,5 @@ Die Lötstellen sind mit etwas Iolierband und Schrumpfschlauch fixiert und haltb
 ![Rueckseite](images/20180915_160237.jpg)
 
 ![Torwand](images/20180915_163125.jpg)
+
+![Lötstellen](images/20180915_165643.jpg)
