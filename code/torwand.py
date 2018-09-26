@@ -14,7 +14,7 @@ Tor_oben = 0
 
 def aktualisiereAnzeige (Tor, Punktestand):
     if Tor == "unten":
-        #print (int(Punktestand / 10))
+        #print (int(Punktestand / 10)
         print (Punktestand % 100)
     if Tor == "oben":
         #print (int(Punktestand / 10))
@@ -32,6 +32,6 @@ while True:
     if GPIO.input(Tor_obenPin) == False:
         effect.play(0)
         Tor_oben = Tor_oben + 1
-        aktualisiereAnzeige("oben",Tor_unten)
+        aktualisiereAnzeige("oben",Tor_oben)
 
 sleep(0.1)
