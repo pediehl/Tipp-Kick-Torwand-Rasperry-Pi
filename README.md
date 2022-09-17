@@ -4,7 +4,7 @@ Beim Treffer wird die Lichtschranke durch den Ball ausgelöst. Die verwendete Li
 
 ## Material
 + Tipp-Kick-Torwand aus Kunststoff
-+ Lichtschranke, hier IR Breakbeam Sensors (5 mm) von Adafruit
++ Lichtschranke, hier IR Break Beam Sensor with Premium Wire Header Ends - 5mm LEDs Product ID: 2168 (5 mm) von Adafruit
 + Isolierband
 + Schrumpfschlauch
 + GPIO-Kabel
